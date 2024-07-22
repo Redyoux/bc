@@ -19,8 +19,8 @@ services:
     restart: always
     environment:
       # Provide your credentials here
-      MONGO_INITDB_ROOT_USERNAME: admin
-      MONGO_INITDB_ROOT_PASSWORD: PASSWORD
+      MONGO_INITDB_ROOT_USERNAME: yvssef7
+      MONGO_INITDB_ROOT_PASSWORD: qlMIF1796
     ports:
       - 27017:27017
 
